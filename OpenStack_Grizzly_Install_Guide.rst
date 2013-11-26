@@ -49,11 +49,11 @@ OpenStack Havana安装指南旨在让你轻松创建自己的OpenStack云平台�
 :网络节点: eth0 (10.10.10.52), eth2 (192.168.100.52)
 :计算节点: eth0 (10.10.10.53), eth1 (192.168.100.53)
 
-**注意1:** 你总是可以使用dpkg -s <packagename>确认你使用的是havana软件包(版本: 2013.1)
+**注意1:** 你总是可以使用dpkg -s <packagename>确认你使用的是havana软件包(版本: 2013.10)
 
 **注意2:** 这个是当前网络架构
 
-.. image:: http://vdisk.weibo.com/s/uzRmR_K4OJXdG
+.. image:: http://vdisk-thumb-2.wcdn.cn/maxwidth.513/download-vdisk.sina.com.cn/59980554/ab2ea224e992395855ea9397d36b2ba1e6217e2e?ssig=cEeSYDtRIW&Expires=1385488800&KID=sae,l30zoo1wmz
 
 2. 控制节点
 ===============
