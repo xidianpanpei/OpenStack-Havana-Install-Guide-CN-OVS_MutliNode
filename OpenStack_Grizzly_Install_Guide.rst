@@ -3,7 +3,7 @@
 ==========================================================
 
 :Version: 1.0
-:Source: https://github.com/xidianpanpei/OpenStack-Havana-Install-Guide-CN
+:Source: https://github.com/xidianpanpei/OpenStack-Havana-Install-Guide-CN-OVS_MutliNode
 :Keywords: 多点OpenStack安装, Havana, Neutron, Nova, Keystone, Glance, Horizon, Cinder, OpenVSwitch, KVM, Ubuntu Server 12.04 (64 bits).
 
 作者
