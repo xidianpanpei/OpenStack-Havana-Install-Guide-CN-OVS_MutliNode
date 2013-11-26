@@ -12,10 +12,10 @@
 `crAzyli0n <http://xidianpanpei.github.como>`_ <pannpei@gmail.com>
 
 本指南fork自
-`Shi Dongliang <https://github.com/ist0ne/OpenStack-Havana-Install-Guide-CN>`_ 
+`Shi Dongliang <https://github.com/ist0ne/OpenStack-Grizzly-Install-Guide-CN>`_ 
 的git仓库。  
 同时，本指南同时参考
-`Bilel Msekni <https://github.com/mseknibilel/OpenStack-Havana-Install-Guide>`_ 
+`Bilel Msekni <https://github.com/mseknibilel/OpenStack-Grizzly-Install-Guide>`_ 
 的git仓库。
 
 
@@ -53,7 +53,7 @@ OpenStack Havana安装指南旨在让你轻松创建自己的OpenStack云平台�
 
 **注意2:** 这个是当前网络架构
 
-.. image:: http://vdisk-thumb-2.wcdn.cn/maxwidth.513/download-vdisk.sina.com.cn/59980554/ab2ea224e992395855ea9397d36b2ba1e6217e2e?ssig=cEeSYDtRIW&Expires=1385488800&KID=sae,l30zoo1wmz
+.. image:: http://d.pcs.baidu.com/thumbnail/fa8227c22256a744dc2d0855d1d722ed?fid=2954304080-250528-4192468924&time=1385474429&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Kv1%2Fcumz4q%2FfyfjFMeV2vfIdgW0%3D&expires=8h&r=395368221&size=c850_u580&quality=100
 
 2. 控制节点
 ===============
