@@ -173,12 +173,12 @@ OpenStack Havana安装指南旨在让你轻松创建自己的OpenStack云平台�
    service keystone restart
    keystone-manage db_sync
 
-* 使用git仓库中脚本填充keystone数据库： `脚本文件夹 <https://github.com/xidianpanpei/OpenStack-Havana-Install-Guide/tree/master/KeystoneScripts>`_ ::
+* 使用git仓库中脚本填充keystone数据库： `脚本文件夹 <https://github.com/xidianpanpei/OpenStack-Havana-Install-Guide-CN-OVS_MutliNode/tree/master/KeystoneScripts>`_ ::
 
    #注意在执行脚本前请按你的网卡配置修改HOST_IP和HOST_IP_EXT
 
-   wget https://raw.github.com/xidianpanpei/OpenStack-Havana-Install-Guide-CN/OVS_MutliNode/KeystoneScripts/keystone_basic.sh
-   wget https://raw.github.com/xidianpanpei/OpenStack-Havana-Install-Guide-CN/OVS_MutliNode/KeystoneScripts/keystone_endpoints_basic.sh
+   wget https://github.com/xidianpanpei/OpenStack-Havana-Install-Guide-CN-OVS_MutliNode/blob/master/KeystoneScripts/keystone_basic.sh
+   wget https://github.com/xidianpanpei/OpenStack-Havana-Install-Guide-CN-OVS_MutliNode/blob/master/KeystoneScripts/keystone_endpoints_basic.sh
 
    chmod +x keystone_basic.sh
    chmod +x keystone_endpoints_basic.sh
