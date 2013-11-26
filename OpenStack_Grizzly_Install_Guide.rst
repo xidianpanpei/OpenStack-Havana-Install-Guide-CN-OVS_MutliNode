@@ -53,7 +53,7 @@ OpenStack Havana安装指南旨在让你轻松创建自己的OpenStack云平台�
 
 **注意2:** 这个是当前网络架构
 
-.. image:: http://i.imgur.com/Frsughe.jpg
+.. image:: http://vdisk.weibo.com/s/uzRmR_K4OJXdG
 
 2. 控制节点
 ===============
