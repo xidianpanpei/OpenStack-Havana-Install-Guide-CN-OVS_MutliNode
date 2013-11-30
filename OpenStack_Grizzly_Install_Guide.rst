@@ -46,7 +46,7 @@ OpenStack Havana安装指南旨在让你轻松创建自己的OpenStack云平台�
 
 :节点角色: NICs
 :控制节点: eth0 (10.10.10.51), eth1 (192.168.100.51)
-:网络节点: eth0 (10.10.10.52), eth2 (192.168.100.52)
+:网络节点: eth0 (10.10.10.52), eth1 (192.168.100.52)
 :计算节点: eth0 (10.10.10.53), eth1 (192.168.100.53)
 
 **注意1:** 你总是可以使用dpkg -s <packagename>确认你使用的是havana软件包(版本: 2013.10)
@@ -177,8 +177,8 @@ OpenStack Havana安装指南旨在让你轻松创建自己的OpenStack云平台�
 
    #注意在执行脚本前请按你的网卡配置修改HOST_IP和HOST_IP_EXT
 
-   wget https://github.com/xidianpanpei/OpenStack-Havana-Install-Guide-CN-OVS_MutliNode/blob/master/KeystoneScripts/keystone_basic.sh
-   wget https://github.com/xidianpanpei/OpenStack-Havana-Install-Guide-CN-OVS_MutliNode/blob/master/KeystoneScripts/keystone_endpoints_basic.sh
+   wget https://raw.github.com/xidianpanpei/OpenStack-Havana-Install-Guide-CN-OVS_MutliNode/master/KeystoneScripts/keystone_basic.sh
+   wget https://raw.github.com/xidianpanpei/OpenStack-Havana-Install-Guide-CN-OVS_MutliNode/master/KeystoneScripts/keystone_endpoints_basic.sh
 
    chmod +x keystone_basic.sh
    chmod +x keystone_endpoints_basic.sh
@@ -900,7 +900,7 @@ OpenStack Havana安装指南旨在让你轻松创建自己的OpenStack云平台�
    tunnel_id_ranges = 1:1000
    integration_bridge = br-int
    tunnel_bridge = br-tun
-   local_ip = 10.10.10.51
+   local_ip = 10.10.10.53
    enable_tunneling = True
 
    #Firewall driver for realizing neutron security group function
