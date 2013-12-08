@@ -9,7 +9,7 @@
 作者
 ==========
 
-`crAzyli0n <http://xidianpanpei.github.como>`_ <pannpei@gmail.com>
+`crAzyli0n <http://xidianpanpei.github.com>`_ <pannpei@gmail.com>
 
 本指南fork自
 `Shi Dongliang <https://github.com/ist0ne/OpenStack-Grizzly-Install-Guide-CN>`_ 
@@ -558,8 +558,8 @@ OpenStack Havana安装指南旨在让你轻松创建自己的OpenStack云平台�
    netmask 255.255.255.0
 
    # VM internet Access
-   auto eth2
-   iface eth2 inet static
+   auto eth1
+   iface eth1 inet static
    address 192.168.100.52
    netmask 255.255.255.0
 
