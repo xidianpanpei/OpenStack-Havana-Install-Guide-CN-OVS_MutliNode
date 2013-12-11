@@ -53,7 +53,7 @@ OpenStack Havana安装指南旨在让你轻松创建自己的OpenStack云平台�
 
 **注意2:** 这个是当前网络架构
 
-.. image:: http://d.pcs.baidu.com/thumbnail/fa8227c22256a744dc2d0855d1d722ed?fid=2954304080-250528-4192468924&time=1385474429&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Kv1%2Fcumz4q%2FfyfjFMeV2vfIdgW0%3D&expires=8h&r=395368221&size=c850_u580&quality=100
+.. image:: https://raw.github.com/xidianpanpei/OpenStack-Havana-Install-Guide-CN-OVS_MutliNode/master/KeystoneScripts/neutron.jpg
 
 2. 控制节点
 ===============
